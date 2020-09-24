@@ -15,3 +15,6 @@ func _ready():
 				o.position.x = x*grid
 				o.position.y = y*grid
 				add_child(o)
+
+
+
